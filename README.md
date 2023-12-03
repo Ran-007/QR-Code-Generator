@@ -37,11 +37,11 @@ This command will prompt you to enter a URL. After inputting the URL, the progra
 Additionally, the entered URL will be saved in a text file (URL.txt).
 
 ## Dependencies
-inquirer: Used for interactive command-line user interfaces. More information can be found here.
+- inquirer: Used for interactive command-line user interfaces. More information can be found here.
 
-qr-image: Used for generating QR code images. More information can be found here.
+- qr-image: Used for generating QR code images. More information can be found here.
 
-fs: Node.js module for file system operations. More information can be found here.
+- fs: Node.js module for file system operations. More information can be found here.
 
 ### Contributing
 If you'd like to contribute to this project, feel free to fork the repository and submit a pull request. Ensure you follow the existing coding style and provide appropriate comments for clarity.
